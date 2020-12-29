@@ -2,4 +2,6 @@
     <string name="app_name">Programmer Dvorak Keyboard</string>
     <string name="keyboard_layouts_label">US Programmer Dvorak Keyboard Layout</string>
     <string name="keyboard_layout_english_us_programmer_dvorak">English (Programmer Dvorak; AltGr)</string>
+    <string name="app_description">An en_US Programmer Dvorak keyboard layout for Android with AltGr support.</string>
+    <string name="app_url">https://github.com/ptitjes/english-us-programmer-dvorak</string>
 </resources>
