@@ -77,67 +77,67 @@ key POUND {
 key 7 {
     label:                              '['
     base:                               '['
-    shift:                              '7'
+    shift, capslock:                    '7'
     ralt:                               '\u00a4'
 }
 
 key 5 {
     label:                              '{'
     base:                               '{'
-    shift:                              '5'
+    shift, capslock:                    '5'
     ralt:                               '\u00a2'
 }
 
 key 3 {
     label:                              '}'
     base:                               '}'
-    shift:                              '3'
+    shift, capslock:                    '3'
     ralt:                               '\u00a5'
 }
 
 key 1 {
     label:                              '('
     base:                               '('
-    shift:                              '1'
+    shift, capslock:                    '1'
     ralt:                               '\u20ac'
 }
 
 key 9 {
     label:                              '='
     base:                               '='
-    shift:                              '9'
+    shift, capslock:                    '9'
     ralt:                               '\u00a3'
 }
 
 key 0 {
     label:                              '*'
     base:                               '*'
-    shift:                              '0'
+    shift, capslock:                    '0'
 }
 
 key 2 {
     label:                              ')'
     base:                               ')'
-    shift:                              '2'
+    shift, capslock:                    '2'
     ralt:                               '\u00bd'
 }
 
 key 4 {
     label:                              '+'
     base:                               '+'
-    shift:                              '4'
+    shift, capslock:                    '4'
 }
 
 key 6 {
     label:                              ']'
     base:                               ']'
-    shift:                              '6'
+    shift, capslock:                    '6'
 }
 
 key 8 {
     label:                              '!'
     base:                               '!'
-    shift:                              '8'
+    shift, capslock:                    '8'
     ralt:                               '\u00a1'
     ralt+shift:                         '\u2e18'
 }
