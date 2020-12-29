@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Programmer Dvorak Keyboard'
+rootProject.name = "Programmer Dvorak Keyboard"
